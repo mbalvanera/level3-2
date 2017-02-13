@@ -1,0 +1,22 @@
+p {
+    background-color:beige
+}
+
+.three {
+    border: 2px dotted black;
+    background-color: aquamarine;
+}
+
+.two {
+    
+    position: fixed;
+    margin: 50px 50px 50px 50px;
+    border: 10px dashed green;
+}
+
+.one {
+    
+    float: left;
+    margin-left: 100px;
+    background-color: red;
+}
